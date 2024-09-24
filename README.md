@@ -1,1 +1,4 @@
-cuidado com o link que clicaste, pois apenas uma vez poderá ser aberto
+-cuidado com o link que clicaste, pois apenas uma vez poderá ser aberto.
+-três novos links escondidos prontos para achar.
+-uma cifra pronta para ser decifrada. (eu ia fazer mais difícil, mas não tive tanto tempo)
+-e muito javascript
