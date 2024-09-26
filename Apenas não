@@ -1,2 +1,158 @@
 
 -.-. .- .-. .-.. --- ... / -. .- --- / .--. . .-. -.-. .- / ... . ..- / - . -- .--. --- / ...- . -. -.. --- / . ... - . / .- .-. --.- ..- .. ...- --- / ---... -.--.- / --- -... .-. .. --. .- -.. --- / .--. --- .-. / .- ...- .. ... .- .-. / .-. .... -.-- .-.. .-.. .- .-. -.-- / ---... -.--.-
+
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>0</title>
+    <link rel="perfumaria" href="perfumaria.css">
+</head>
+<style>
+    body{
+        background-color: rgb(0, 0, 0);
+    }
+    a{
+        text-align: center;
+        color: rgb(0, 0, 0);
+    }
+    h1{
+        text-align: center; 
+    }
+    P{
+        text-align: center;
+        
+
+    }
+    a{
+        text-align: justify;
+    }
+   h5{
+    color: black;
+   }
+   .image-container:hover {
+    position: relative;
+}
+
+.hidden-image {
+    display: none; /* Inicialmente oculta */
+    width: 300px; /* Ajuste o tamanho conforme necessário */
+}
+
+.image-container:hover .hidden-image {
+    display: block; /* Exibe a imagem ao passar o mouse */
+}
+   
+</style>
+<body>
+    <a href="0.html"></a>
+
+    <P>CARLOS EU AINDA TÔ ACHANDO COISA, PELO AMOR DE DEUS NÃO ACABA(NÃO QUE ISSO SEJA RUIM) TEM COISA QUE NÃO CONSEGUI TRADUZIR</P><br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div class="image-container"></div>
+        <p>Passe o mouse aqui para ver a imagem!</p>
+        <img src="imagens/gato.webp" alt="EU" class="hidden-image">
+    </div>
+    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <a href="1.html">Ir para a Página 2</a><br>
+
+</body>
+</html>
