@@ -1,0 +1,88 @@
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+            background-color: black;
+        }
+        .container {
+            position: relative;
+            width: 100%;
+            height: 100%;
+        }
+
+        .imagem {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            animation: piscar 6s infinite;
+        }
+
+        .imagem1 {
+            animation-delay: 0s;
+        }
+
+        .imagem2 {
+            animation-delay: 2s;
+        }
+
+        .imagem3 {
+            animation-delay: 4s;
+        }
+        @keyframes piscar {
+            0%, 100% { opacity: 1; } 
+            50% { opacity: 0; }   
+        }
+
+        .link-piscar {
+            position: absolute;
+            color: #fff;
+            font-size: 2em;
+            animation: piscar-link 60s infinite;
+        }
+
+        @keyframes piscar-link {
+            0%, 100% { opacity: 0.05; }
+            50% { opacity: 0; }
+        }
+        h1 {
+            text-align: center;
+        }
+        h2 {
+            text-align: right;
+            margin-top: 30%;
+        }
+        .link1 { top: 13%; left: 15%; }
+        .link2 { top: 90%; left: 45%; }
+        .link3 { top: 40%; left: 90%; }
+        .link4 { top: 20%; left: 55%; }
+        .link5 { top: 90%; left: 70%; }
+        .link6 { top: 10%; left: 99%; }
+        .link7 { top: 90%; left: 15%; }
+        .link8 { top: 1%; left: 0%; }
+    </style>
+    <title>Dois Backgrounds Alternando</title>
+</head>
+<body>
+    <div class="container">
+        <img src="imagens/¹.png" alt="Imagem 1" class="imagem imagem1">
+        <img src="imagens/².png" alt="Imagem 2" class="imagem imagem2">
+        <img src="imagens/³.png" alt="Imagem 3" class="imagem imagem3">
+    </div>
+
+    <a href="https://privnote.com/zABGEOdu#rlgN4svea" class="link-piscar link1">1</a>
+    <a href="https://privnote.com/QfF7vs0J#2DyAOOzXQ" class="link-piscar link2">2</a>
+    <a href="https://privnote.com/vwmvs54y#GHsYVunPQ" class="link-piscar link3">3</a>
+    <a href="https://privnote.com/wC4cCSWn#bViBbU4NF" class="link-piscar link4">4</a>
+    <a href="https://privnote.com/FhHIY3Y7#Uaxd2yMsm" class="link-piscar link5">5</a>
+    <a href="https://privnote.com/FQn2yvS1#TGDuAOacl" class="link-piscar link6">6</a>
+    <a href="https://privnote.com/95fzNRFI#YeNg8wPz2" class="link-piscar link7">7</a>
+    <a href="https://privnote.com/A2c6vAQF#qq2WBXcWY" class="link-piscar link8">8</a>
+</body>
+</html>
