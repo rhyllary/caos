@@ -41,9 +41,14 @@ p{
     font-family: bold;
 }
 body{
-    background-color: black;
-}
-a{
-    color: black;
-}
+   
+    margin: 0;
+    padding: 0;
+    height: 100vh; /* Ocupa toda a altura da tela */
+    background-image: url('imagens/M104b_peris800.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    position: relative;
+    }
 
